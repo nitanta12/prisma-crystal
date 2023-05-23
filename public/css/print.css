@@ -1,0 +1,19 @@
+@media print {
+    .myDivToPrint {
+        background-color: white;
+        height: 100%;
+        width: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        margin: 0;
+        padding: 0px;
+        font-size: 11px;
+        line-height: 15px;
+    }
+    .footer-print
+    {
+      position: absolute;
+        bottom: 0;
+    }
+}
